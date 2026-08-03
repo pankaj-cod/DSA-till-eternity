@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
