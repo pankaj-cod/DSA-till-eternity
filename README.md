@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3169-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -60,5 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
