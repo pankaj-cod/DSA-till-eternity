@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0367-valid-perfect-square) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
