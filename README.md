@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
