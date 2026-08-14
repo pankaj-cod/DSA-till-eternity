@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
