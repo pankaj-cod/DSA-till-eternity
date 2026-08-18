@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3536-maximum-product-of-two-digits) |
@@ -146,14 +148,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
