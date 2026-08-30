@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0709-to-lower-case) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [2404-most-frequent-even-element](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2404-most-frequent-even-element) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
