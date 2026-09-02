@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
 |  |
