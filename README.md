@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 ## Minimax
