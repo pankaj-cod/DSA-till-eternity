@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0940-distinct-subsequences-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
