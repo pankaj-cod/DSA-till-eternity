@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
