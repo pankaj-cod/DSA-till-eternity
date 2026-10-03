@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0940-distinct-subsequences-ii) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -269,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0020-valid-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 <!---LeetCode Topics End-->
