@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -274,5 +276,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
