@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3169-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3517-smallest-palindromic-rearrangement-i) |
