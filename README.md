@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0387-first-unique-character-in-a-string) |
