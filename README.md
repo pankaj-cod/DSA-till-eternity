@@ -316,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
