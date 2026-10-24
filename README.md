@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0283-move-zeroes) |
