@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
@@ -330,15 +332,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
