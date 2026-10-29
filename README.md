@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0367-valid-perfect-square) |
+| [0728-self-dividing-numbers](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 | [2396-strictly-palindromic-number](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2396-strictly-palindromic-number) |
