@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3169-count-days-without-meetings](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3169-count-days-without-meetings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
 | [2396-strictly-palindromic-number](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bucket Sort
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1510-stone-game-iv) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Minimax
 |  |
 | ------- |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
