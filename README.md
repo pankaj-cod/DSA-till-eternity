@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
