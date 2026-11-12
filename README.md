@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0877-stone-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -377,5 +378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
+| [1672-richest-customer-wealth](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
