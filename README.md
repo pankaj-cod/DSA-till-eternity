@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0491-non-decreasing-subsequences) |
+| [0503-next-greater-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
