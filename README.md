@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3169-count-days-without-meetings](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3169-count-days-without-meetings) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pankaj-cod/DSA-till-eternity/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
